@@ -1,7 +1,5 @@
 # -*- encoding:utf8 -*-
 '''
-@author: PGQ
-@version: 2018-05-28
 @comment:           更新登录后切换chromedriver的方式，提高查找到合适的chromedriver效率 学生端自动化结构优化，用例间耦合性降低
 '''
 # appium --no-reset --log-timestamp --session-override --command-timeout 300
